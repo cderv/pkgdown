@@ -1,7 +1,8 @@
 pandoc: 3.1.11
-pkgdown: 2.0.9.9000
+pkgdown: 2.1.1.9000
 pkgdown_sha: ~
 articles:
+  accessibility: accessibility.html
   customise: customise.html
   how-to-update-released-site: how-to-update-released-site.html
   test/jss: test/jss.pdf
@@ -10,12 +11,13 @@ articles:
   metadata: metadata.html
   test/pdf: test/pdf.pdf
   pkgdown: pkgdown.html
+  test/quarto-features: test/quarto-features.html
+  quarto: quarto.html
   test/rendering: test/rendering.html
-  search: search.html
   test/short: test/short.html
+  translations: translations.html
   test/widgets: test/widgets.html
-last_built: 2024-04-30T13:09Z
+last_built: 2024-11-22T13:54Z
 urls:
   reference: https://pkgdown.r-lib.org/reference
   article: https://pkgdown.r-lib.org/articles
-
