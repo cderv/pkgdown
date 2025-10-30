@@ -16,6 +16,8 @@
 <url><loc>https://pkgdown.r-lib.org/dev/articles/test/rendering.html</loc></url>
 <url><loc>https://pkgdown.r-lib.org/dev/articles/test/short.html</loc></url>
 <url><loc>https://pkgdown.r-lib.org/dev/articles/test/widgets.html</loc></url>
+<url><loc>https://pkgdown.r-lib.org/dev/articles/test-quarto-article.html</loc></url>
+<url><loc>https://pkgdown.r-lib.org/dev/articles/test-rmarkdown-article.html</loc></url>
 <url><loc>https://pkgdown.r-lib.org/dev/articles/translations.html</loc></url>
 <url><loc>https://pkgdown.r-lib.org/dev/authors.html</loc></url>
 <url><loc>https://pkgdown.r-lib.org/dev/index.html</loc></url>
@@ -25,6 +27,7 @@
 <url><loc>https://pkgdown.r-lib.org/dev/reference/build_articles.html</loc></url>
 <url><loc>https://pkgdown.r-lib.org/dev/reference/build_favicons.html</loc></url>
 <url><loc>https://pkgdown.r-lib.org/dev/reference/build_home.html</loc></url>
+<url><loc>https://pkgdown.r-lib.org/dev/reference/build_llm_docs.html</loc></url>
 <url><loc>https://pkgdown.r-lib.org/dev/reference/build_news.html</loc></url>
 <url><loc>https://pkgdown.r-lib.org/dev/reference/build_redirects.html</loc></url>
 <url><loc>https://pkgdown.r-lib.org/dev/reference/build_reference.html</loc></url>
@@ -54,6 +57,7 @@
 <url><loc>https://pkgdown.r-lib.org/dev/reference/test-links.html</loc></url>
 <url><loc>https://pkgdown.r-lib.org/dev/reference/test-lists.html</loc></url>
 <url><loc>https://pkgdown.r-lib.org/dev/reference/test-long-lines.html</loc></url>
+<url><loc>https://pkgdown.r-lib.org/dev/reference/test-math-examples.html</loc></url>
 <url><loc>https://pkgdown.r-lib.org/dev/reference/test-output-styles.html</loc></url>
 <url><loc>https://pkgdown.r-lib.org/dev/reference/test-params.html</loc></url>
 <url><loc>https://pkgdown.r-lib.org/dev/reference/test-sexpr-title.html</loc></url>
